@@ -4,6 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Name: Priscylla Flisch
+ * Student ID: 300931589
+ * Date: 25th July 2017
+ * Description: Lesson 11 (Demo)
+ * Version: 0.1 - Implement the HighestCards methods
+ * Github Link: https://github.com/pflisch/Lab25-Cards
+ */
+
 namespace Lab25
 {
     class Program
